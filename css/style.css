@@ -489,7 +489,7 @@ ul {
 }
 
 .contact .container .contact-content .link {
-  font-size: 30px;
+  font-size: 25px;
   font-weight: 800;
   color: var(--main-color);
 }
@@ -526,3 +526,4 @@ ul {
 .footer .container span {
   color: var(--main-color);
 }
+
